@@ -57,3 +57,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+baseurl: /resume
+url: knight2995.github.io
