@@ -23,9 +23,10 @@ linkedin_username:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  안녕하세요. 김동현입니다.
+  현재 전문연구요원 신입으로 직장을 구하고 있습니다.
+  학교 연구실에서 이미지 프로세싱과 딥러닝을 이용한 많은 연구과제를 수행하였습니다.
+  <mark>어제보다 조금 더 나은 사람이 되자</mark>를 모토로 삼고 있습니다.
 
 # Projects Section
 # projects_title: Projects
@@ -39,11 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  저는 개발외에 아래에 관심이 있습니다 :
+   - Weight Trainning
+   - Weight Lifting
 
 # Footer
 footer_show_references: true
