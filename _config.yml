@@ -28,6 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
   학교 연구실에서 이미지 프로세싱과 딥러닝을 이용한 많은 연구과제를 수행하였습니다.
   <mark>어제보다 조금 더 나은 사람이 되자</mark>를 모토로 삼고 있습니다.
 
+# Skills Section
+# skills_title: Skills
+
 # Projects Section
 # projects_title: Projects
 
@@ -48,7 +51,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
+#theme: resume
 
 sass:
   sass_dir: _sass

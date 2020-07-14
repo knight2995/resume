@@ -1,0 +1,24 @@
+- layout: left
+  Language: C++
+  Level: 중상
+  quote: >
+   Modern C++ 을 지향하며, 클린 코드를 달성하려고 노력합니다.
+  description: | # this will include new lines to allow paragraphs
+    STL을 다룰 수 있으며, C++의 기본개념을 이해하고 있습니다.
+
+- layout: left
+  Language: Python
+  Level: 중
+  quote: >
+   가장 손쉽게 프로그램을 만들어 낼 수 있습니다.
+  description: | # this will include new lines to allow paragraphs
+    파이썬의 기본개념을 이해하고, 이를 이용하여 다양한 프로그램을 작성할 수 있습니다.
+
+
+- layout: left
+  Language: Go
+  Level: 하
+  quote: >
+   I like Golang.
+  description: | # this will include new lines to allow paragraphs
+    goroutine 과 채널 개념을 이해하고 이를 다룰 수 있습니다.
